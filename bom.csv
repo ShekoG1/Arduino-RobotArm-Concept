@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Rpot1",1,"250 kΩ Potentiometer"
+"SERVO1, SERVO2",2,"Positional Micro Servo"
+"R1, R3, R4",3,"1 kΩ Resistor"
+"D3",1," LED RGB"
+"R2",1,"10 kΩ Resistor"
+"S2",1," Slideswitch"
